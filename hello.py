@@ -2,7 +2,7 @@ def saluda(quien):
     """Corrige el resultado para que la función regrese un saludo de la forma:
     ¡Hola <quien>!
     """
-    return "¡Hola!"
+    return "¡Hola Maestro!"
 
 
 # Ignora por ahora esto, es sólo para que pruebes tu función.
