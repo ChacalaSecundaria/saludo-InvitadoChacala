@@ -5,4 +5,4 @@ def test_saludo():
     """Pruebas de saludo"""
     assert saluda("Yama") == "¡¡Hola Yama!!"
     assert saluda("") == "¡¡Hola !!"
-    assert saluda("yo") == "¡¡Hola yo!!"
+    assert saluda("yo") == "¡¡Hola ya!!"
